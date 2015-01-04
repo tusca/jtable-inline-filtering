@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	
+	<parent>
+		<artifactId>jtable-inline-filtering-parent</artifactId>
+		<groupId>be.tusca</groupId>
+		<version>1.0.0-SNAPSHOT</version>
+	</parent>
+	
+	<artifactId>jtable-inline-filtering</artifactId>
+	<packaging>jar</packaging>
+	
+	<name>Inline Filtering for Swing</name>
+	<description>Table header for Swing JTable to allow inline filtering having a text field, combobox, ... in te table header</description>
+
+	
+
+</project>
