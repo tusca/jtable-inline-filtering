@@ -11,7 +11,7 @@
 	<description>Table header for Swing JTable to allow inline filtering having a text field, combobox, ... in te table header</description>
 
 	<properties>
-		<junit.version>4.10</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<java.version>1.6</java.version>
 		<maven.javadoc.version>2.2</maven.javadoc.version>
 	</properties>
